@@ -14,7 +14,7 @@ export const tabinfo: Tabinfo = {
   比賽: {
     content: [
       
-      "參加CPE 大學程式能力檢定",
+      "參加CPE 大學程式能力檢定"
       
     ],
   },
@@ -29,8 +29,8 @@ export const tabinfo: Tabinfo = {
   },
   社團: {
     content: [
-      "日本文化研究社",
-      ,
+      "日本文化研究社"
+      
     ],
   },
 };
