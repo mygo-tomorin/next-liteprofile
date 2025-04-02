@@ -17,7 +17,6 @@ export default function Home() {
         <TabInterface />
         <Contest />
         <Projects />
-        <BlogSection limit={5} />
         <SocialLink />
       </div>
     </main>
