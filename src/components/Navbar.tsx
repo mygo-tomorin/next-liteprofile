@@ -5,7 +5,7 @@ import { useState } from "react";
 import { base } from "@/config/base";
 import { LuMenu, LuX } from "react-icons/lu";
 
-const navLinks = [{ title: "部落格", path: "/blogs" }];
+const navLinks = [{ title: " ", path: "/blogs" }];
 
 export default function Navbar() {
   const [navbarOpen, setNavbarOpen] = useState(false);
