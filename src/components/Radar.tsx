@@ -10,12 +10,12 @@ import {
 } from "recharts";
 
 const data = [
-  { subject: "國文", A: 100, fullMark: 100 },
-  { subject: "英文", A: 98, fullMark: 100 },
-  { subject: "數學", A: 86, fullMark: 100 },
-  { subject: "自然", A: 99, fullMark: 100 },
-  { subject: "社會", A: 130, fullMark: 100 },
-  { subject: "資訊", A: 110, fullMark: 100 },
+  { subject: "國文", A: 10, fullMark: 15 },
+  { subject: "英文", A: 7, fullMark: 15 },
+  { subject: "數學A", A: 10, fullMark: 15 },
+  { subject: "數學B", A: 10, fullMark: 15 },
+  { subject: "社會", A: 11, fullMark: 15 },
+  { subject: "自然", A: 10, fullMark: 15 },
 ];
 
 export default function RadarChartComponent() {
