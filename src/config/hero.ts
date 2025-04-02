@@ -20,7 +20,7 @@ export const hero: Hero = {
     1000,
     " ",
     1000,
-    "擔任FRC程式組組長",
+    "喜歡看動漫",
     1000,
   ],
   achievementsList: [
