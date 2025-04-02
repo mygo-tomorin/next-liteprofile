@@ -4,6 +4,6 @@ type Base = {
 };
 
 export const base: Base = {
-  title: "tomocat",
+  title: "徐灃寯",
   description: "tomocat's personal website",
 };
