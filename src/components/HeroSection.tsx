@@ -39,14 +39,6 @@ export default function HeroSection() {
             >
               關於我
             </Link>
-            <Link
-              href="/blogs"
-              className="mt-3 inline-block w-32 rounded-full bg-linear-to-br from-orange-500 to-purple-500 px-1 py-1 text-white hover:bg-blue-600 sm:w-fit"
-            >
-              <span className="block rounded-full bg-black px-5 py-2 hover:bg-gray-800">
-                部落格
-              </span>
-            </Link>
           </div>
         </motion.div>
         <motion.div
