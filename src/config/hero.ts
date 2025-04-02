@@ -24,10 +24,10 @@ export const hero: Hero = {
     1000,
   ],
   achievementsList: [
-    { metric: "數學", value: "PR值", postfix: "99" },
-    { metric: "創意", value: "PR值", postfix: "99" },
-    { metric: "邏輯推理", value: "PR值", postfix: "99" },
-    { metric: "空間", value: "PR值", postfix: "97" },
-    { metric: "語文", value: "PR值", postfix: "78" },
+    { metric: "數學", value: "140 ", postfix: "PR值99" },
+    { metric: "創意", value: " ", postfix: "PR值99" },
+    { metric: "邏輯推理", value: " ", postfix: "PR值99" },
+    { metric: "空間", value: " ", postfix: "PR值97" },
+    { metric: "語文", value: " ", postfix: "PR值78" },
   ],
 };
