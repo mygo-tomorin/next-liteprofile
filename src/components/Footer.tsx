@@ -1,7 +1,7 @@
-import Link from "next/link";
+
 import { base } from "@/config/base";
 import pkg from "../../package.json";
-import { FaFacebook, FaInstagram, FaYoutube, FaGithub } from "react-icons/fa";
+
 
 export default function Footer() {
   return (
