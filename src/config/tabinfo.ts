@@ -20,11 +20,7 @@ export const tabinfo: Tabinfo = {
   },
   技能: {
    content: [
-      "React / Next.js 網頁全端開發",
-      "Arduino程式設計",
-      "FRC程式設計",
-      "競賽程式",
-      "演算法分析",
+      "網頁開發"
     ],
   },
   社團: {
