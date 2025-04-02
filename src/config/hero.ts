@@ -14,11 +14,11 @@ type Achievement = {
 
 export const hero: Hero = {
   title: "我是 徐灃寯",
-  description: "一位立志成為軟體工程師的高中生自我介紹",
+  description: "一位立志成為工程師的高中生自我介紹",
   typeAnimationTexts: [
-    "擔任機器人社活動長",
+    "擔任高三圖書股長",
     1000,
-    "創辦程式貓教育社群",
+    " ",
     1000,
     "擔任FRC程式組組長",
     1000,
